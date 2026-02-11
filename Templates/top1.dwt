@@ -1,0 +1,157 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/top1.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<meta name="Description" content="茨城県 守谷市 特許事務所。特許出願,商標登録出願 手続き 知的財産戦略の立案。奥田国際特許事務所は、中小企業、ベンチャ―企業、個人事業の方々を支援します。" />
+<meta name="Keywords" content="特許事務所,茨城,つくば,守谷,特許,商標,出願,弁理士,知的財産,発明,発想,奥田特許事務所" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>奥田国際特許事務所（茨城県 守谷市、つくば市、つくばみらい市、取手市、常総市、柏市、我孫子市、野田市、流山市、つくばエクスプレス沿線）</title>
+<link rel="shortcut icon" href="../favicon.ico" >
+<!-- InstanceEndEditable --><link rel="stylesheet" href="../2col_leftNav.css" type="text/css">
+<style type="text/css">
+<!--
+.style1 {color: #333333}
+.style7 {font-size: 9pt}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<!-- InstanceBeginEditable name="head" --><!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable --><!-- InstanceEndEditable -->
+</head>
+<!-- The structure of this file is exactly the same as 2col_rightNav.html;
+     the only difference between the two is the stylesheet they use -->
+<body onLoad="MM_preloadImages('../image/access_bt02.png','../image/telmail_bt02.gif','../image/outline_navbt02.gif','../image/charge_navbt02.gif','../image/trademark_navbt02.gif','../image/link_navbt02.gif','../image/trademark_bt02.gif')">
+<div id="wrapper">
+<div id="bg">
+<div id="masthead">
+  <div id="globalNav"> 
+    <div align="right"><a href="../index.html">トップページ</a> | <a href="../outline/outline02.htm">事務所概要</a> | <a href="../charge/charge01.htm">料金一覧</a> | <a href="mailto:info@chienone.com" target="_blank">お問い合わせ</a></span><a href="#">　</a></div>
+  </div> 
+</div> 
+
+<div id="main">
+
+<div id="content"><br> 
+  <!-- InstanceBeginEditable name="pagetittle" -->
+  <h1 id="pageName">奥田国際特許事務所へようこそ</h1>
+<!-- InstanceEndEditable --> 
+  <!-- InstanceBeginEditable name="story" -->
+  <div class="story"> 
+    <table width="499" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td width="358" height="168" valign="top">当事務所は、中小企業、ベンチャ―企業、個人事業の方々を支援致しております。<br>
+          <br>          
+          知的財産の発掘・権利化のほか、お客様のご要望に応じて知的財産の分析や戦略策定等を行い、継続的にサポートを致します。<br>
+          <br>
+      特許・商標登録等に携わるのが初めてのお客様にも、個々のケースに応じてわかりやすく親身に対応致します。<br>
+      <br>
+      現在、３０分の無料相談を実施しておりますので、お気軽にお問い合わせください。
+        </td>
+        <td width="12">&nbsp;</td>
+        <td width="126" valign="top"><img src="../image/picture01.png" width="126" height="168"></td>
+      </tr>
+    </table>
+    <br>
+    <h6>取扱業務</h6>
+    <table width="500" border="0" cellpadding="0" cellspacing="10">
+      <tr>
+        <td height="54"><img src="../image/patent_bt01.gif" alt="特許　実用新案" width="86" height="46"></td>
+        <td width="424">出願から登録まで、お客様にとって真に価値ある権利の取得を目指してサポートします。また、特許ファシリテーターとして発明の発掘・創造支援を行います。</td>
+      </tr>
+    </table>
+    <table width="500" border="0" cellpadding="0" cellspacing="10">
+      <tr>
+        <td height="46"><a href="../trademark/trademark01.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('商標','','../image/trademark_bt02.gif',1)"><img src="../image/trademark_bt01.gif" alt="商標について" name="商標" width="86" height="46" border="0"></a></td>
+        <td width="424">ネーミングやロゴマークの商標登録だけでなく、お客様の事業にとって最適な方策をご提案します。<a href="../trademark/trademark01.htm">→詳細はこちら</a></td>
+      </tr>
+    </table>
+    <table width="500" border="0" cellpadding="0" cellspacing="10">
+      <tr>
+        <td><img src="../image/design_bt01.gif" alt="意匠" width="86" height="46"></td>
+        <td width="424">プロダクトデザイン、パッケージデザイン、画面デザイン等の工業デザインを保護し、巧妙な模倣からお客様を守ります。</td>
+      </tr>
+    </table>
+    <table width="500" border="0" cellpadding="0" cellspacing="10">
+      <tr>
+        <td><img src="../image/foreign_bt01.gif" alt="外国出願" width="86" height="46"></td>
+        <td width="424">アジア、欧州、北米・南米等、世界各国への実績がございます。<br>
+          お気軽にご依頼ください。</td>
+      </tr>
+    </table>
+    <table width="500" border="0" cellpadding="0" cellspacing="10">
+      <tr>
+        <td><img src="../image/consulting_bt01.gif" alt="知財コンサルティング" width="86" height="46"></td>
+        <td width="424">特許調査、パテントマップの作成・分析等から、知財戦略の提案・サポートを行います。<br>
+          また、知的財産に関する様々なご相談に迅速に対応致します。</td>
+      </tr>
+    </table>
+    <table width="500" border="0" cellpadding="0" cellspacing="10">
+      <tr>
+        <td height="46"><img src="../image/support_bt01.gif" alt="中小企業支援" width="86" height="46"></td>
+        <td width="424">法定手数料（特許庁への納付料）の減免猶予制度活用支援と共に、<br>
+          リーズナブルな料金体系をご用意しております。</td>
+      </tr>
+    </table>
+        <br>
+        </div>
+  <!-- InstanceEndEditable -->
+  <div class="story"></div> 
+</div> 
+<!--end content --> 
+<div id="navBar">  <br>
+    <div class="relatedLinks2">      <a href="../outline/outline01.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('事務所のご案内','','../image/outline_navbt02.gif',1)"><img src="../image/outline_navbt01.gif" alt="事務所のご案内" name="事務所のご案内" width="130" height="30" border="0"></a><a href="../charge/charge01.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('料金一覧','','../image/charge_navbt02.gif',1)"><img src="../image/charge_navbt01.gif" alt="料金一覧" name="料金一覧" width="130" height="30" border="0"></a><a href="../trademark/trademark01.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('商標について','','../image/trademark_navbt02.gif',1)"><img src="../image/trademark_navbt01.gif" alt="商標について" name="商標について" width="130" height="30" border="0"></a><a href="../link/link01.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('お役立ちリンク','','../image/link_navbt02.gif',1)"><img src="../image/link_navbt01.gif" alt="お役立ちリンク" name="お役立ちリンク" width="130" height="30" border="0"></a><a href="../link/link01.htm">
+          </a>
+        </div>
+    <div id="advert">
+      <p align="left"><span class="relatedLinks2"><a href="../outline/outline03.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('アクセス','','../image/access_bt02.png',1)"><img src="../image/access_bt01.png" alt="奥田国際特許事務所へのアクセス" name="アクセス" width="130" height="40" border="0"></a><a href="mailto:info@chienone.com"><br>
+            </a><a href="mailto:info@chienone.com" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('メールお問い合わせ','','../image/telmail_bt02.gif',1)"><img src="../image/telmail_bt01.gif" alt="メールによるお問い合わせ" name="メールお問い合わせ" width="130" height="100" border="0"></a></span></p>
+      </div> 
+   
+    </div> 
+</div> 
+
+<div id="siteInfo">   
+  <p align="right" class="style1">奥田国際特許事務所<br>
+    〒302-0110 茨城県守谷市百合ヶ丘1丁目2354-430</p>
+  <p align="left">主な対応地域：茨城（守谷/つくば/つくばみらい/取手/龍ヶ崎/牛久/阿見/美浦/稲敷/土浦/かすみがうら/利根/河内/鉾田/行方/鹿嶋/潮来/神栖/常総/坂東/境/五霞/古河/結城/筑西/下妻/八千代/桜川/石岡/笠間/小美玉/茨城/水戸/大洗/城里/ひたちなか/東海/那珂/日立/常陸太田/常陸大宮/大子/高萩/北茨城）千葉（我孫子/柏/野田/流山/松戸/鎌ケ谷/船橋/市川/浦安/習志野/八千代など）のほか東京、埼玉、など関東全域</p>
+  <p align="center">&copy;2009
+        OKUDA INTERNATIONAL PATENT OFFICE. All Rights Reserved. </p>
+</div> 
+</div>
+</div>
+<br> 
+</body>
+<!-- InstanceEnd --></html>
