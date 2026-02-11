@@ -1,0 +1,61 @@
+.right-title {color: #FF9900;
+	font-weight: bold;
+	font-size: 12px;
+}
+.title {	color: #FFFFFF;
+	font-weight: bold;
+	font-family: "HG行書体";
+	font-size: 36px;
+}
+.left-title {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.copyright {font-size: 12px}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.title2B {
+	font-family: "HG行書体";
+	font-size: 36px;
+	font-weight: bold;
+	color: #000000;
+}
+.N16 {
+	font-size: 16px;
+	color: #000000;
+}
+.B16 {
+	font-size: 16px;
+	color: #000000;
+	font-weight: bold;
+}
+.N14 {
+	font-size: 14px;
+	color: #000000;
+}
+.N14red {
+	font-size: 14px;
+	color: #FF0000;
+}
+.B24 {
+	font-size: 18px;
+	color: #000000;
+	font-weight: bold;
+}
+.okuda-pat {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-family: "HG行書体";
+	font-size: 18px;
+}
+.title2Byellow {
+
+	font-family: "HG行書体";
+	font-size: 36px;
+	font-weight: bold;
+	color: #FF9900;
+}
