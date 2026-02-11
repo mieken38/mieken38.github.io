@@ -2,13 +2,13 @@
 /* 2col_leftNav.css                            */
 /* Use with template 2col_leftNav.html          */
 /***********************************************/
-
+ 
 /***********************************************/
 /* HTML tag styles                             */
 /***********************************************/ 
 
 body{
-	font-family: "‚l‚r ƒSƒVƒbƒN",Arial,sans-serif;
+	font-family: "ï¼­ï¼³ ã‚´ã‚·ãƒƒã‚¯",Arial,sans-serif;
 	color: #333333;
 	line-height: 1.3;	
 	margin: 0px;
@@ -26,7 +26,7 @@ a:hover {
 /* overrides decoration from previous rule for hovered links */
 
 h1, h2, h3, h4, h5, h6, h7 {
-	font-family: "‚l‚r ƒSƒVƒbƒN",Arial,sans-serif;
+	font-family: "ï¼­ï¼³ ã‚´ã‚·ãƒƒã‚¯",Arial,sans-serif;
 	margin: 0px;
 	padding: 0px;
 }
@@ -100,7 +100,7 @@ ul ul ul{
 }
 
 label{
- font: bold 100% "‚l‚r ƒSƒVƒbƒN",Arial,sans-serif;
+ font: bold 100% "ï¼­ï¼³ ã‚´ã‚·ãƒƒã‚¯",Arial,sans-serif;
  color: #334d55;
 }
 				
@@ -116,13 +116,13 @@ label{
 
 #wrapper {
    width: 700px;
-   margin: 0 auto;   /* •ŒÅ’èi700pxj‚ÅƒZƒ“ƒ^ƒŠƒ“ƒO‚µ‚Ü‚·B*/
+   margin: 0 auto;   /* å¹…å›ºå®šï¼ˆ700pxï¼‰ã§ã‚»ãƒ³ã‚¿ãƒªãƒ³ã‚°ã—ã¾ã™ã€‚*/
 }
 
 
 
 #main {
-   width: 700px;     /* —¼’[ƒuƒƒbƒN‚ÆƒRƒ“ƒeƒ“ƒc‚ğˆÍ‚ñ‚Å‚¢‚éƒNƒ‰ƒX‚Å‚·B */
+   width: 700px;     /* ä¸¡ç«¯ãƒ–ãƒ­ãƒƒã‚¯ã¨ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚’å›²ã‚“ã§ã„ã‚‹ã‚¯ãƒ©ã‚¹ã§ã™ã€‚ */
 }
 
 
