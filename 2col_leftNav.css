@@ -1,0 +1,366 @@
+/***********************************************/
+/* 2col_leftNav.css                            */
+/* Use with template 2col_leftNav.html          */
+/***********************************************/
+
+/***********************************************/
+/* HTML tag styles                             */
+/***********************************************/ 
+
+body{
+	font-family: "ＭＳ ゴシック",Arial,sans-serif;
+	color: #333333;
+	line-height: 1.3;	
+	margin: 0px;
+	padding: 0px;
+}
+
+a:link, a:visited, a:hover {
+	color: #006699;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+/* overrides decoration from previous rule for hovered links */
+
+h1, h2, h3, h4, h5, h6, h7 {
+	font-family: "ＭＳ ゴシック",Arial,sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+h1{
+	font-size: 12pt;
+	color: #333333;
+	background:url(./outline/img/pagetittleback_ol.gif) no-repeat left bottom;
+	text-indent:12px;
+	line-height: 1.6;
+	margin-left: 10px;
+	font-style: normal;
+	margin-bottom: 10px;
+}
+
+h2{
+	font-size: 12pt;
+	color: #333333;
+	background:url(./charge/img/pagetittleback_ch.gif) no-repeat left bottom;
+	text-indent:12px;
+	line-height: 1.6;
+	margin-left: 10px;
+	font-style: normal;
+	margin-bottom: 10px;
+}
+
+h3{
+ font-size: 9pt;
+ color: #334d55;
+ line-height: 1.7;
+ text-decoration:none;
+}
+
+h4{
+ font-size: 100%;
+ font-weight: normal;
+ color: #333333;
+}
+
+h5{
+	font-size: 12pt;
+	color: #333333;
+	background:url(./trademark/img/pagetittleback_tm.gif) no-repeat left bottom;
+	text-indent:12px;
+	line-height: 1.6;
+	margin-left: 10px;
+	font-style: normal;
+	margin-bottom: 10px;
+}
+
+h6{
+ font-size: 9pt;
+ color: #006699;
+ background:url(./image/list01.jpg) no-repeat left;
+ text-indent:24px;
+ line-height: 2.0;
+}
+
+
+
+ul{
+ list-style-type: square;
+}
+
+ul ul{
+ list-style-type: disc;
+}
+
+ul ul ul{
+ list-style-type: none;
+}
+
+label{
+ font: bold 100% "ＭＳ ゴシック",Arial,sans-serif;
+ color: #334d55;
+}
+				
+
+/***********************************************/
+/* Layout Divs                                 */
+/***********************************************/
+
+* {
+   margin:0;
+   padding:0;
+}
+
+#wrapper {
+   width: 700px;
+   margin: 0 auto;   /* 幅固定（700px）でセンタリングします。*/
+}
+
+
+
+#main {
+   width: 700px;     /* 両端ブロックとコンテンツを囲んでいるクラスです。 */
+}
+
+
+#masthead{
+	margin: 0;
+	padding: 0px;
+	border-bottom: 1px solid #cccccc;
+	background:url(./image/head_image.jpg) no-repeat left;
+	width: 700px;
+	height:140px;
+	position: static;
+}
+
+#navBar{
+	margin: 0 0px 0 0;
+	width: 150px;
+	padding: 0px;
+	background-color: #F7F7F7;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+
+#content{
+	float: right;
+	width: 530px;
+	margin: 0;
+	padding: 0 0 0 0;
+}
+
+
+#bg{
+	background:url(./image/bg_con.gif) repeat-y;
+	width:710px;
+	}
+
+/***********************************************/
+/*Component Divs                               */
+/***********************************************/
+
+#siteName{
+	margin: 0px;
+	padding: 0px 0px 10px 10px;
+}
+
+
+/*************** #pageName styles **************/
+
+#pageName{
+	padding: 10px 10px 0px 10px;
+}
+
+
+/************* #globalNav styles **************/
+
+#globalNav{
+	color: #cccccc;
+	padding: 100px 0px 0px 0px;
+	white-space: normal;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+/* 'nowrap' prevents links from line-wrapping if there are too many to fit in one line
+   this will force a horizontal scrollbar if there isn't enough room for all links
+   remove rule or change value to 'normal' if you want the links to line-wrap */
+
+#globalNav img{
+ display: block;
+}
+
+#globalNav a {
+	font-size: 10pt;
+	padding: 0px 4px 0px 0px; 
+}
+
+
+/************* #breadCrumb styles *************/
+
+#breadCrumb{
+	font-size: 9pt;
+	padding: 5px 0px 5px 10px;
+	width: 400px;
+}
+
+
+/************** .story styles *****************/
+
+.story{
+	clear: both;
+	padding: 10px 10px 0px 10px;
+	font-size: 9pt;
+	line-height: 1.5;
+	width: 510px;
+	margin: 0px;
+	float: right;
+}
+
+.story p{
+	padding: 0px 0px 10px 0px;
+	width: 510px;
+	font-size: 9pt;
+	line-height: 1.5;
+}
+
+
+/************* #siteInfo styles ***************/
+
+#siteInfo{
+	clear: both;
+	border: 1px solid #cccccc;
+	font-size: 8pt;
+	color: #cccccc;
+	padding: 10px 10px 10px 10px;
+	margin-top: 0px;
+	width: 680px;
+}
+/* negative top margin pulls siteinfo up so its top border overlaps (and thus lines up with)
+	the bottom border of the navBar in cases where they "touch" */
+
+#siteInfo img{
+	padding: 4px 4px 4px 0px;
+	vertical-align: middle;
+}
+
+
+/************* #search styles ***************/
+
+#search{
+	padding: 5px 0px 5px 10px;
+	border-bottom: 1px solid #cccccc;
+	font-size: 90%;
+}
+
+#search form{
+ margin: 0px;
+ padding: 0px;
+}
+
+#search label{
+	display: block;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+/*********** #navBar link styles ***********/
+
+#navBar ul a:link, #navBar ul a:visited {display: block;}
+#navBar ul {list-style: none; margin: 0; padding: 0;}
+
+/* hack to fix IE/Win's broken rendering of block-level anchors in lists */
+#navBar li {border-bottom: 1px solid #EEE;}
+
+/* fix for browsers that don't need the hack */
+html>body #navBar li {border-bottom: none;}
+
+
+
+/*********** #sectionLinks styles ***********/
+
+#sectionLinks{
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+	border-bottom: 1px solid #cccccc;
+	font-size: 12pt;
+	line-height: 1.5;
+	left: -1px;
+}
+
+#sectionLinks h3{
+	padding: 10px 0px 2px 10px;
+}
+
+#sectionLinks a:link{
+	padding: 2px 0px 2px 10px;
+	border-top: 1px solid #cccccc;
+	width: 100%;
+  voice-family: "\"}\""; 
+  voice-family:inherit;
+	width: auto;
+}
+
+#sectionLinks a:visited{
+	border-top: 1px solid #cccccc;
+	padding: 2px 0px 2px 10px;
+}
+
+#sectionLinks a:hover{
+	border-top: 1px solid #cccccc;
+	background-color: #dddddd;
+	padding: 2px 0px 2px 10px;
+}
+
+
+/*********** .relatedLinks styles ***********/
+
+.relatedLinks{
+	margin: 0px;
+	padding: 0px 0px 10px 10px;
+	font-size: 9pt;
+	line-height: 2.0;
+}
+
+.relatedLinks2{
+	margin: 0px;
+	padding: 0px 0px 10px 10px;
+	font-size: 9pt;
+	line-height: 1.5;
+}
+
+.relatedLinks h3{
+	padding: 10px 0px 2px 0px;
+}
+
+
+/************** #advert styles **************/
+
+#advert{
+	padding: 10px 0px 0px 10px;
+	font-size: 80%;
+	border-top: 1px solid #cccccc;
+}
+
+#advert img{
+	display: block;
+}
+
+
+/************** #headlines styles **************/
+
+#headlines{
+	margin: 0px;
+	padding: 10px 0px 20px 10px;
+	font-size: 10pt;
+}
+
+#headlines p{
+	padding: 5px 0px 5px 0px;
+}
